@@ -4,3 +4,4 @@ Empanada de carne
 Empanada de pollo
 Empanada de chorizo
 Empanada de cecina
+Empanada de pato
